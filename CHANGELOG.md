@@ -12,6 +12,10 @@ To install release candidates run `[sudo] gem install cocoapods --pre`
   [Mark Schall](https://github.com/maschall)
   [#5809](https://github.com/CocoaPods/CocoaPods/pull/5809)
 
+* Use fetch and reset rather than a pull when updating specs repos.  
+  [Danielle Tomlinson](https://github.com/dantoml)
+  [#6206](https://github.com/CocoaPods/CocoaPods/pull/6206)
+
 ##### Bug Fixes
 
 * Fix codesigning issues when targets have spaces.   
@@ -92,9 +96,7 @@ To install release candidates run `[sudo] gem install cocoapods --pre`
 
 ##### Enhancements
 
-* Use fetch and reset rather than a pull when updating specs repos.  
-  [Danielle Tomlinson](https://github.com/dantoml)
-  [#6206](https://github.com/CocoaPods/CocoaPods/pull/6206)
+* None.  
 
 ##### Bug Fixes
 
